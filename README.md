@@ -7,7 +7,7 @@
 訓練步驟都寫在 yolo-fastest.ipynb，在 Colab 上進行訓練
 
 ## 檔案放置路徑如下
-<img width="400" height="700" src="https://github.com/chingi071/yolo-fastest_training/blob/main/README_pix/image1.png"/></div>
+<img width="400" height="650" src="https://github.com/chingi071/yolo-fastest_training/blob/main/README_pix/image1.png"/></div>
 
 ## 訓練流程
 詳細流程可以參考我的 Medium: https://medium.com/ching-i/yolo-fastest-ncnn-on-raspberry-pi-4-f44143b44e45
